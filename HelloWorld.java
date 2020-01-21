@@ -7,6 +7,7 @@ public class HelloWorld{
 		     System.out.println("come on baby");
 		   
 		       System.out.println("come on beautiful gril");
+		       double i=10;
 
 		           System.out.println("I want to marry with you(tsp)");
 
