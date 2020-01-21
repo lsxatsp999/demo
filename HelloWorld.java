@@ -7,6 +7,8 @@ public class HelloWorld{
 		     System.out.println("come on baby");
 		       System.out.println("come on beautiful gril");
 		       int i=100000;
+		       double j=2.0;
+
 
 
 	}
