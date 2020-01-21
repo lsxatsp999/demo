@@ -15,7 +15,7 @@ public class HelloWorld{
 
 		       String name="zhangsan"
 
-		       double j=2.0;
+		       double j=20;
 		       String name1="lisi";
 
 
