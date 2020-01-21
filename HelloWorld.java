@@ -12,6 +12,7 @@ public class HelloWorld{
 
 		       int i=100000;
 		       double j=2.0;
+		       String name="lisi";
 
 
 
