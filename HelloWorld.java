@@ -15,6 +15,7 @@ public class HelloWorld{
 		       String name1="lisi";
 		System.out.println("-------------------你好靓女------->美美哒");
 			System.out.println("--------------------come on beautiful gril-------------");
+		System.out.println("你好_____________________good");
 
 	}
 }
