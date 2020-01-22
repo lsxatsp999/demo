@@ -8,16 +8,12 @@ public class HelloWorld{
 		   
 		       System.out.println("come on beautiful gril");
 		       double i=10;
-
 		           System.out.println("I want to marry with you(tsp)");
-
 		       int i=100000;
-
 		       String name="zhangsan"
-
 		       double j=20;
 		       String name1="lisi";
-
+			System.out.println("--------------------come on beautiful gril-------------");
 
 
 
